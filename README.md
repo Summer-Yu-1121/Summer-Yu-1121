@@ -43,12 +43,32 @@ Planned hands-on project demonstrating AI-agent orchestration and automated task
 
 ## Certifications & Professional Development
 
-- ASQF® Certified Professional for Project Management
-- Leading SAFe®
-- ISTQB® Certified Tester
-- PMP® preparation
-- PMI-CPMAI™ preparation
-- Continuous learning in Generative AI and AI transformation
+✅ ASQF CPPM
+
+✅ Leading SAFe
+
+✅ ISTQB
+
+✅ PMP (In Progress)
+
+✅ PMI-CPMAI (In Progress)
+
+✅ Microsoft AI & GenAI Training
+
+## Learning Journey
+
+2026
+✅ GenAI Fundamentals
+
+✅ GitHub Copilot
+
+✅ Prompt Engineering
+
+✅ Azure AI Foundry
+
+🔄 PMI-CPMAI
+
+🔄 Agentic AI Workflows
 
 ## Languages
 
