@@ -68,7 +68,7 @@ Planned hands-on project demonstrating AI-agent orchestration and automated task
 
 🔄 PMI-CPMAI
 
-🔄 Agentic AI Workflows
+✅ Agentic AI Workflows
 
 ## Languages
 
