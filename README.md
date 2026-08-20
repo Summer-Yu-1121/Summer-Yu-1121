@@ -57,7 +57,6 @@ Planned hands-on project demonstrating AI-agent orchestration and automated task
 
 ## Learning Journey
 
-2026
 ✅ GenAI Fundamentals
 
 ✅ GitHub Copilot
